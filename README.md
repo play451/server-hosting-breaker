@@ -18,3 +18,7 @@ A server.jar file that can execute shell files used to destroy Minecraft server 
 4.  done
 
 or you know download it from the releases page
+
+## Stuff that can be used with this
+
+nothing yet make your own
